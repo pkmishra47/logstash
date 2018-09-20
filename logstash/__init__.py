@@ -1,1 +1,1 @@
-name = "logstash_test"
+name = "logstash"
