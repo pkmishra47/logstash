@@ -1,7 +1,0 @@
-README.md
-setup.py
-logash_test.egg-info/PKG-INFO
-logash_test.egg-info/SOURCES.txt
-logash_test.egg-info/dependency_links.txt
-logash_test.egg-info/top_level.txt
-logstash/__init__.py
