@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="logash_test",
+    name="logstash_test",
     version="0.0.1",
     author="Pradeep Mishra",
     author_email="pkmishra.pradeep@gmail.com",
