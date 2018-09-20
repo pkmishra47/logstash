@@ -1,0 +1,7 @@
+README.md
+setup.py
+logstash/__init__.py
+logstash.egg-info/PKG-INFO
+logstash.egg-info/SOURCES.txt
+logstash.egg-info/dependency_links.txt
+logstash.egg-info/top_level.txt

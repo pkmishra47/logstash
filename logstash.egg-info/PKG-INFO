@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: logstash
+Version: 0.0.1
+Summary: Package for processing log files to centralized log server
+Home-page: https://github.com/pkmishra47/logstash
+Author: Example Author
+Author-email: pkmishra.pradeep@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
